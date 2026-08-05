@@ -10,3 +10,6 @@
 # 编辑器
 .vscode/
 .idea/
+
+# 允许发布产物入库
+!MouseFlow.exe
